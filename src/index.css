@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Chela+One&family=Lato:wght@300;400;700;900&family=Rubik+Dirt&display=swap");
+
+:root {
+  --atversity-white: #e6e6dd;
+  --atversity-black: #191818;
+}
+
+body {
+  margin: 0;
+  background-color: var(--atversity-black);
+  color: var(--atversity-white);
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+}
